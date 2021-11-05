@@ -1,0 +1,85 @@
+nav{
+    background-color: aquamarine;
+    height: 50px;
+}
+ul{
+    display: flex;
+    list-style: none;
+
+}
+body{
+    background-color: beige;
+}
+li{
+    margin-right: 15px;
+}
+.li2{
+    margin-left: auto;
+}
+.li1, .li2{
+    margin-top: 15px;
+}
+.likotak{
+    margin-top: 10px;
+    margin-right: 1px;
+}
+.order{
+    display: flex;
+}
+.thx{
+    margin-top: -10px;
+}
+.hr1{
+    width: 130%;
+    margin-left: -9%;
+    border:blue solid 0.2px;
+}
+.h4y, .haCI, .shipp{
+    margin-left: -60px;
+}
+.bag1, .shipp1{
+    display: flex;
+    justify-content: space-between;
+}
+.tab1{
+    border-collapse: collapse;
+    background-color: blanchedalmond;
+    margin-right: 100px;
+    width: 300px;
+    height: 300px;
+}
+.td1{
+    text-align: right;
+}
+.sum{
+    margin-top: 50px;
+}
+.tdapp{
+    border: black solid 0.5px;
+}
+.thsum{
+    text-align: left;
+}
+.bill{
+    margin-left: 300px;
+}
+.hr2{
+    border: black 1px solid;
+}
+hr{
+    border: solid white 0.001px;
+}
+.b{
+    margin-right: 20px;
+    margin-left: 10px;
+}
+.img{
+    margin-left: 10px;
+}
+.f{
+    margin-top: -15px;
+    background-color: thistle;
+}
+.asub{
+    color: white;
+}
